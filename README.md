@@ -1,8 +1,28 @@
-# React + Vite
+# DRAG-AND-DROP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Set Up Instructrion
 
-Currently, two official plugins are available:
+1. Clone The Project
+```
+    git clone https://github.com/manish25Coder/Drag-And-Drop.git
+``` 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Move Into The Directory 
+```
+    cd drag-and-drop
+```
+
+3. Install The Dependencies 
+```
+    npm i
+```
+
+4. Run The Server 
+```
+    npm run dev
+```
+
+### Overall View
+
+![image](https://github.com/user-attachments/assets/45aa5dd4-ed09-49ff-9cef-602c7f33798b)
+
